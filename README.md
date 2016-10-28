@@ -1,6 +1,10 @@
 # dwc-data
 This README outlines a potential data project for the Downtown Women's Center.
 
+_Project Leaders_: TBD
+
+_Subject Matter Experts_: TBD
+
 ## Notes from 10/25/2016
 
 __Goal:__ Empower Women
