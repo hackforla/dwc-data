@@ -41,6 +41,7 @@ How to iterate: Have the people who will be using it try it out.
 ask them: "How would you interact with this form?"
 
 So we will test and adjust:
+
 1. How does the user interact with the form?
 2. Does it make their job easier and more sustainably rewarding?
 3. Does it allow them to empower Annabelle more readily?
